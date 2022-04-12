@@ -2,4 +2,5 @@ Sound/**
 sourse/scripts/**
 !sourse/scripts/SLSMPlaySoundScript.psc
 !sourse/scripts/SLSMVoiceSet.psc
+!sourse/scripts/SLHGameVoiceMain.psc
 backup/
